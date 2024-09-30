@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div class="hero">
         <h1>Personal Budget</h1>
-        <h2>A personal-budget management app</h2>
+        <h2>A personal-budget management application</h2>
     </div>
   );
 }
